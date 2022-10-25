@@ -1,0 +1,10 @@
+/frontend-createasynthunk/node_modules/
+/abc.html
+/abc.css
+/traffic.css
+/traffic.html
+/backend/node_modules/
+/**/node_modules
+/frontend-rtk-query/node_modules
+/.env
+/*/.env

@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Spice');
+@import url('https://fonts.googleapis.com/css?family=Style+Script');
+
+*{
+    padding: 0;
+    margin: 0;
+    /* font-family: 'Style Script' */;
+  }
+  a{
+    text-decoration: none;
+  }
+
+  .my-nav{
+    height: 70px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .my-nav h1{
+    font-family: 'Bungee Spice';
+  }
+
+  .cart-icon{
+    font-size: 50px;
+    color: white;
+  }
+  .cart-icon-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .cart-quantity{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    margin-left: 5px;
+  }
